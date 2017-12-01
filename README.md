@@ -2,7 +2,7 @@
 
 This repository contains information about the selection process applied to the applicants of CS50 Puyo.
 A notebook is included with a detailed explanation of the process.
-The data used is in `Applicants.csv`, which contains the following columns.
+The data used is in `applicants.csv`, which contains the following columns.
 
 |Column Name|Description
 |---|---|
@@ -17,8 +17,9 @@ The data used is in `Applicants.csv`, which contains the following columns.
 |Weight| Weight given to compensate for the difference in class
 |Personality| MBTI personality type|
 |Gender|Candidate's gender|
-|Interview| Order in interview|
 |Structure (50)|Score of structure in interview|
 |Argumentative (20)| Score of argumentation in interview|
 |Examples (30)|Score of use of examples in interview|
 |Traits| Score of personal traits shown in interview. From 0 to 5 points|
+
+See the rendered notebook on nbviewer [here](http://nbviewer.jupyter.org/github/Sikae/SelectionProcessCS50Puyo/blob/master/SelectionProcessCS50Puyo.ipynb)
